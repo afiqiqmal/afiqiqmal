@@ -3,7 +3,6 @@
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://hafiqiqmal93.medium.com/)
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hafiq93/)
 
-<break>
   
 ## About Me
 
@@ -11,9 +10,13 @@
 [<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white">]()
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">]()
 
+<br>
 
-<break>
+<img src="https://raw.githubusercontent.com/afiqiqmal/afiqiqmal/main/assets/tryhackme.png?token=ACFBZMBE57L7G5BVRMB3H73AYQ77S">
+
   
+<br>
+
 ## Statistics
   
 ![afiqiqmal's GitHub stats](https://github-readme-stats.vercel.app/api?username=afiqiqmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
