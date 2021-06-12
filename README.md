@@ -10,12 +10,9 @@
 [<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white">]()
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">]()
 
-<br>
 
 <img src="https://raw.githubusercontent.com/afiqiqmal/afiqiqmal/main/assets/tryhackme.png?token=ACFBZMBE57L7G5BVRMB3H73AYQ77S">
 
-  
-<br>
 
 ## Statistics
   
