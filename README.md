@@ -11,7 +11,7 @@
 [<img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">]()
 
 
-<img src="https://raw.githubusercontent.com/afiqiqmal/afiqiqmal/main/assets/tryhackme.png?token=ACFBZMBE57L7G5BVRMB3H73AYQ77S">
+[<img src="https://github.com/afiqiqmal/afiqiqmal/blob/main/assets/tryhackme.png?raw=true">](https://tryhackme.com/p/kapalbiru)
 
 
 ## Statistics
