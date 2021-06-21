@@ -5,6 +5,7 @@
 
   
 ## About Me
+I'm a Software Engineer and nothing ordinary about it 🤘
 
 [<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white">]()
 [<img src="https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxt-dot-js&logoColor=white">]()
